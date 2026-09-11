@@ -20,6 +20,14 @@ export const skillGroups = [
 
 export const projects = [
   {
+    title: 'A full-stack inventory manager built with Svelte, FastAPI, and MongoDB, containerized with Docker for one-command deployment.',
+    category: 'Full Stack App',
+    description: 'A lightweight inventory management app with a Svelte frontend and a FastAPI backend connected to MongoDB via an async driver. The entire stack — frontend, backend, and database — runs as three Docker containers orchestrated with Docker Compose, so the whole app spins up with a single command. Built to practice clean API design, async database access, and containerized full-stack deployment.',
+    technologies: ['Svelte','Vite','Python','FastAPI', 'MongoDB','Docker','Docker Compose'],
+    icon: '📊',
+    link: 'https://github.com/anrainstitute-AI/fullstack-app'
+  },
+  {
     title: 'Superstore Sales Analytics',
     category: 'Power BI',
     description: 'Interactive dashboard for sales, profit, customers, products and regional performance.',
