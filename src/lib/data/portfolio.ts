@@ -3,9 +3,9 @@ export const personalInfo = {
   role: 'Data Scientist | Power BI Developer | Python Developer',
   description:
     'I build data-driven dashboards, analytics solutions, AI applications and modern full-stack applications using Python, Power BI, SQL and TypeScript.',
-  email: 'your-email@example.com',
-  linkedin: 'https://www.linkedin.com/',
-  github: 'https://github.com/',
+  email: 'm26garg@gmail.com',
+  linkedin: 'https://www.linkedin.com/in/mansi-garg-231635103/',
+  github: 'https://github.com/anrainstitute-AI',
   upwork: 'https://www.upwork.com/'
 };
 
